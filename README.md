@@ -1,2 +1,3 @@
 # Embedded-lessons
-hardware explanation, code examples, etc
+
+This repository contains educational materials, code examples, and laboratory exercises for an Embedded Systems course.
